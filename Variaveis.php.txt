@@ -1,0 +1,7 @@
+<?php
+
+$num = 10;
+$num1 = 20;
+$soma = $num + $num1;
+echo "Soma " . $soma;
+?>
