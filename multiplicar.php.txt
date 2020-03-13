@@ -1,0 +1,6 @@
+<?php
+	$num = 1;
+	$num1 = 2;
+	$mult = $num * $num1;
+	echo "Multiplicação " . $mult;
+?>
