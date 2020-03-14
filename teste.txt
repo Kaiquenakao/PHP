@@ -1,0 +1,7 @@
+TESTE
+
+CAT // eu consigo ver o arquivo sem mexer nele
+RM // comando para apagar o arquivo
+ECHO // ele printa na tela, e o sinal de ''>'' faz você colocar em lugar, por exemplo /etc/resolv.conf
+chattr +1 // ninguém troco esse atributo nem mesmo o root
+ping -c 1 // eu estou pingando o dominio, se ele estiver com o dominio ele me manda
